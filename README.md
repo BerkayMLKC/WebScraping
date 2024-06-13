@@ -16,7 +16,7 @@ Requests
 MySQL Connector/Python
 PyMySQL
 
-Installation
+#Installation
 
 1. Clone the Repository
 git clone https://github.com/username/project-name.git
