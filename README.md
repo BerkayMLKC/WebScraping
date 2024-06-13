@@ -1,7 +1,7 @@
-# E-COMMERCE COMPARİSON PROJECT
+# E-Commerce Comparison Project
 This project aims to compare product features and prices between the Trendyol and Amazon Turkey e-commerce platforms. Data is collected using web scraping techniques and stored in a MySQL database.
 
-# TABLE OF Contents
+# Table of Contents
 Technologies Used
 Installation
 Usage
@@ -49,7 +49,7 @@ moba = pymysql.connect(
     cursorclass=pymysql.cursors.DictCursor
 )
 
-# USAGE
+# Usage
 
 1. Collect Data
 
