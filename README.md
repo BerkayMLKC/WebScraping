@@ -69,4 +69,7 @@ lptp_tam: Product URL
 # Codes
 
 You can review the project interface code [here](mann.php).
+
 You can review the project backend code [here](webscraping.py).
+
+You can review the project report [here](webscrapor.pdf).
