@@ -66,6 +66,4 @@ ism: Feature name
 fiyat: Product price
 lptp_tam: Product URL
 
-Contributing
-To contribute, please create a fork of the repository and submit a pull request with your changes. If you have any issues or suggestions, feel free to open an issue.
 
